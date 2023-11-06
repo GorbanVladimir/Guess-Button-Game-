@@ -1,0 +1,28 @@
+/* *********************************** */
+/* BELOW 688px (Smaller Tablets)*/
+/* *********************************** */
+
+@media (max-width: 43em) {
+  .nice-border {
+    margin-top: 3.8rem;
+    height: 35rem;
+  }
+  .container {
+    gap: 3.2rem;
+    height: 30rem;
+    width: 30rem;
+    padding: 3.2rem;
+  }
+  .feedback-container {
+    height: 30rem;
+    width: 30rem;
+  }
+
+  .btn-reload {
+    padding: 1rem 1.2rem;
+  }
+  .icon-reload {
+    height: 1.2rem;
+    width: 1.2rem;
+  }
+}
